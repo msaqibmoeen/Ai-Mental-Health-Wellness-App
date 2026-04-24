@@ -1,6 +1,6 @@
 # ai_mental_health
 
-A new Flutter project.
+A new Flutter project. Using Dart Language
 
 ## Getting Started
 
