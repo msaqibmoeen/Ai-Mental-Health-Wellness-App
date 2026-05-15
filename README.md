@@ -37,5 +37,5 @@ Multi-language support
 Clone the repository
 Run flutter pub get
 Launch using flutter run
-Video Link of Project: https://github.com/msaqibmoeen/Ai-Mental-Health-Wellness-App/blob/51b4fc82b2d64c23807b0072479cd579176f7bc0/Ai-Mental%20Health%20App.mp4
+Video Link of Project: https://www.linkedin.com/posts/msaqibmoeen_flutter-firebase-backenddevelopment-activity-7420777288453050368-25Mq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHGVcQBLfpcUq3Lfep7PQYYGAWlwEMstGI
 
